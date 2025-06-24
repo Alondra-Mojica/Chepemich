@@ -11,6 +11,7 @@ public class Projecto {
       System.out.println("la suma de" + a + "+" + b + "es" + suma);
       System.out.println("La multiplicacion de " + a + "+" + b  +" es: " + mult);
       System.out.println("Alondra Michelle Mojica Chavez- Num carnet 2025-1606U");
+      System.out.println("Saludo Alondra");
       
       
 
